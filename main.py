@@ -2,7 +2,7 @@ from pythonping import ping
 import socket
 import telebot
 
-bot = telebot.TeleBot('1552715061:AAFhjbXXkJMa2U7txi3IOW48dZ1yK1Csp2s')
+bot = telebot.TeleBot('-Тут нужно вписать ТОКЕН-')
 
 
 def echo(message) -> object:
